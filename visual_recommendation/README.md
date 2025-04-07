@@ -1,4 +1,4 @@
-# Visual Recommendation System
+# Filtering System Based On Visual Recognition
 
 ## Purpose
 
