@@ -72,5 +72,6 @@ def main():
         print("No detections found or an error occurred.")
 
 
+# python visual_recog.py test.mp4 --frame_rate 1.0
 if __name__ == "__main__":
     main()
